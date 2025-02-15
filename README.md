@@ -2,7 +2,7 @@
 Propensity score method in multiple outcome settings: A simulation study
 1. In the setups folder:
 
-   input parameters, generate the association pattern (between covariates and outcomes), and generate the data using the pre-made functions in the function.R (Junjie Wu Feb 2025 branch).
+   input parameters, generate the association pattern (between covariates and outcomes), and generate the data using the pre-made functions in the function.R .
 3. In the Function folder:
    
    Function.R includes the Association_Function, the Simulation_Function, and the Form_Functions.
